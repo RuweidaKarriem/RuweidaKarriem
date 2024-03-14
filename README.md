@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruweida</h1>
-<h3 align="center">Technical writer/learning designer interested in learning as much as possibly.</h3>
+<h3 align="center">Technical writer/learning designer interested in learning as much as possible.</h3>
 
 - 🌱 I’m currently learning **more about GitHub and Generative AI.**
 
